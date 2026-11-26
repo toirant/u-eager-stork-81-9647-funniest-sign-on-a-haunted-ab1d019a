@@ -1,8 +1,8 @@
 # Funniest Sign on a Haunted Server Room Door
 
-[![make.fun](https://make.fun/badge/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a.svg)](https://make.fun/c/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a)
-[![Rank](https://make.fun/badge/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a/toirant/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a-repo/rank.svg)](https://make.fun/c/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a)
-[![Reward](https://make.fun/badge/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a/toirant/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a-repo/reward.svg)](https://make.fun/c/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a)
+[![make.fun · u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a](https://make.fun/badge/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a)
+[![rank](https://make.fun/badge/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a/toirant/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a/toirant/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a)
 
 Entry for the [Funniest Sign on a Haunted Server Room Door](https://make.fun/c/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a) bounty on make.fun.
 
